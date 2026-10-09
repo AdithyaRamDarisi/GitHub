@@ -119,3 +119,8 @@
 // git tag	                                                 List tags
 
 
+// Pull: Retrieves and integrates changes from a remote repository into your local branch.
+// Pull Request: Proposes changes for review and merging on GitHub.
+// Push: Uploads your local commits to a remote repository.
+// Fork: Creates your own GitHub copy of another repository.
+
